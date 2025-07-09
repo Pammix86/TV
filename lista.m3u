@@ -1360,9 +1360,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="uefawomenseuroenglandvsnetherlands" tvg-name="UEFA Women's Euro : England vs Netherlands (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/england-football-association-logo.png" group-title="Eventi Live",UEFA Women's Euro : England vs Netherlands (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
 #EXTINF:-1 tvg-id="uefawomenseurofrancevswales" tvg-name="UEFA Women's Euro : France vs Wales (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Wales.png" group-title="Eventi Live",UEFA Women's Euro : France vs Wales (21:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
 
@@ -1372,20 +1369,11 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipu20newzealandu20vsirelandu20" tvg-name="World Championship U20 : New Zealand U20 vs Ireland U20 (18:00)" tvg-logo="https://www.futbol24.com/upload/team/OFC/New-Zealand-U20.png" group-title="Eventi Live",World Championship U20 : New Zealand U20 vs Ireland U20 (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
-
 #EXTINF:-1 tvg-id="worldchampionshipu20georgiau20vsitalyu20" tvg-name="World Championship U20 : Georgia U20 vs Italy U20 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Georgia U20_vs_Italy U20.png" group-title="Eventi Live",World Championship U20 : Georgia U20 vs Italy U20 (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 #EXTINF:-1 tvg-id="worldchampionshipu20georgiau20vsitalyu20" tvg-name="World Championship U20 : Georgia U20 vs Italy U20 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Georgia U20_vs_Italy U20.png" group-title="Eventi Live",World Championship U20 : Georgia U20 vs Italy U20 (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
-
-#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="nationsleaguewomenitalywvsbelgiumw" tvg-name="Nations League Women : Italy W vs Belgium W (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy W_vs_Belgium W.png" group-title="Eventi Live",Nations League Women : Italy W vs Belgium W (17:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
