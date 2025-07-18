@@ -19,10 +19,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3 (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3 (D)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-852.php
@@ -1366,7 +1366,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Water Sports" group-title="Eventi Live",--- Water Sports ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="swimmingsummeruniversiaderhineruhr2025day2" tvg-name="Swimming: Summer Universiade - Rhine-Ruhr 2025 Day 2 (19:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230813/original/pngtree-vector-illustration-design-of-a-swimming-logo-for-a-swimming-club-featuring-a-swimmer-logo-design-template-vector-picture-image_10562897.png" group-title="Eventi Live",Swimming: Summer Universiade - Rhine-Ruhr 2025 Day 2 (19:00)
+#EXTINF:-1 tvg-id="swimmingsummeruniversiaderhineruhr2025day2" tvg-name="Swimming: Summer Universiade - Rhine-Ruhr 2025 Day 2 (19:00)" tvg-logo="https://logodix.com/logo/1945701.png" group-title="Eventi Live",Swimming: Summer Universiade - Rhine-Ruhr 2025 Day 2 (19:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 
