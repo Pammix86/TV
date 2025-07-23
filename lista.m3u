@@ -1360,17 +1360,8 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlygalatasarayvscagliari" tvg-name="Club Friendly : Galatasaray vs Cagliari (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Galatasaray_vs_Cagliari.png" group-title="Eventi Live",Club Friendly : Galatasaray vs Cagliari (19:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
-
 #EXTINF:-1 tvg-id="uefaweurogermanyvsspain" tvg-name="UEFA W. EURO : Germany vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Germany_vs_Spain.png" group-title="Eventi Live",UEFA W. EURO : Germany vs Spain (21:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
-#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="nationsleaguewomenpolandwvschinaw" tvg-name="Nations League Women : Poland W vs China W (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Poland W_vs_China W.png" group-title="Eventi Live",Nations League Women : Poland W vs China W (19:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
