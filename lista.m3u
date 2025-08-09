@@ -1360,9 +1360,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlybrestvssassuolo" tvg-name="Club Friendly : Brest vs Sassuolo (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brest_vs_Sassuolo.png" group-title="Eventi Live",Club Friendly : Brest vs Sassuolo (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
-
 #EXTINF:-1 tvg-id="clubfriendlynapolivsgirona" tvg-name="Club Friendly : Napoli vs Girona (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Girona.png" group-title="Eventi Live",Club Friendly : Napoli vs Girona (19:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-17.php
 
