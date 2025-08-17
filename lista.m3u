@@ -1396,7 +1396,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipswedenmx2race1" tvg-name="World Championship Sweden | MX2 | Race 1 (13:00)" tvg-logo="https://img1.wsimg.com/isteam/ip/193f74c0-fdad-47a5-a946-7633945c93fd/blob-78beabd.png" group-title="Eventi Live",World Championship Sweden | MX2 | Race 1 (13:00)
+#EXTINF:-1 tvg-id="worldchampionshipswedenmx2race1" tvg-name="World Championship Sweden | MX2 | Race 1 (13:00)" tvg-logo="https://www.level1graphic.com/wp-content/uploads/2024/06/NP_crf5-600x600.png" group-title="Eventi Live",World Championship Sweden | MX2 | Race 1 (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofaustriarace" tvg-name="MotoGP : Greek Grand Prix of Austria Race (14:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Austria Race (14:00)
@@ -1419,9 +1419,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="tourderomandiefmininstage3aigle130km" tvg-name="Tour de Romandie Féminin | Stage 3 Aigle (130km) (12:00)" tvg-logo="https://www.procyclingstats.com/images/shirts/bx/eb/fdj-suez-2025.png" group-title="Eventi Live",Tour de Romandie Féminin | Stage 3 Aigle (130km) (12:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-id="czechtourstage4menkrompustevny179km" tvg-name="Czech Tour | Stage 4 Men | Kroměříž - Pustevny (179km) (14:15)" tvg-logo="https://www.proximus.be/dam/cdn/sites/iportal/images/illustrations/logos/tv/sports/cycling-czech-logo-2502.png" group-title="Eventi Live",Czech Tour | Stage 4 Men | Kroměříž - Pustevny (179km) (14:15)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
