@@ -1435,9 +1435,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="moto2hungariangrandprixrace" tvg-name="Moto2 : Hungarian Grand Prix Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto2 : Hungarian Grand Prix Race (12:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
 #EXTINF:-1 tvg-id="mx2netherlandsworldchampionshiprace1" tvg-name="MX2 | Netherlands World Championship | Race 1 (13:00)" tvg-logo="https://www.strongfishing.com/wp-content/uploads/2024/01/MX2_2021_1530820_alt2.png" group-title="Eventi Live",MX2 | Netherlands World Championship | Race 1 (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
@@ -1450,7 +1447,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="mx2netherlandsworldchampionshiprace2" tvg-name="MX2 | Netherlands World Championship | Race 2 (16:00)" tvg-logo="https://www.strongfishing.com/wp-content/uploads/2024/01/MX2_2021_1530820_alt2.png" group-title="Eventi Live",MX2 | Netherlands World Championship | Race 2 (16:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace2" tvg-name="MXGP | Netherlands World Championship | Race 2 (17:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/MTV_logo_red(2).png" group-title="Eventi Live",MXGP | Netherlands World Championship | Race 2 (17:00)
+#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace2" tvg-name="MXGP | Netherlands World Championship | Race 2 (17:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/PNG_OK(1).png" group-title="Eventi Live",MXGP | Netherlands World Championship | Race 2 (17:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -1461,15 +1458,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-id="tourdebeneluxstage5masculine" tvg-name="Tour de Benelux | Stage 5 Masculine (14:00)" tvg-logo="https://i.imgur.com/yBx62u5.png" group-title="Eventi Live",Tour de Benelux | Stage 5 Masculine (14:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
-
-#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="worldchampionshipwomenitalywvscubaw" tvg-name="World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy W_vs_Cuba W.png" group-title="Eventi Live",World Championship Women : Italy W vs Cuba W (12:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
-
-#EXTINF:-1 tvg-id="worldchampionshipwomenitalywvscubaw" tvg-name="World Championship Women : Italy W vs Cuba W (12:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy W_vs_Cuba W.png" group-title="Eventi Live",World Championship Women : Italy W vs Cuba W (12:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
