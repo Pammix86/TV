@@ -1360,27 +1360,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsarsenal" tvg-name="England - Premier League : Liverpool vs Arsenal (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Arsenal.png" group-title="Eventi Live",England - Premier League : Liverpool vs Arsenal (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-21.php
-
-#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsarsenal" tvg-name="England - Premier League : Liverpool vs Arsenal (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Arsenal.png" group-title="Eventi Live",England - Premier League : Liverpool vs Arsenal (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
-
-#EXTINF:-1 tvg-id="italyseriectrentovsunionbrescia" tvg-name="Italy - Serie C : Trento vs Union Brescia (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/54/2/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Union Brescia (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-166.php
-
-#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsvirtusverona" tvg-name="Italy - Serie C : Union ArzignanoChiampo vs Virtus Verona (18:00)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Union_ArzignanoChiampo.png/revision/latest?cb=20161031220657" group-title="Eventi Live",Italy - Serie C : Union ArzignanoChiampo vs Virtus Verona (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-157.php
-
-#EXTINF:-1 tvg-id="italyseriecpianesevsathleticcarpi" tvg-name="Italy - Serie C : Pianese vs Athletic Carpi (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pianese_vs_Athletic Carpi.png" group-title="Eventi Live",Italy - Serie C : Pianese vs Athletic Carpi (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-167.php
-
-#EXTINF:-1 tvg-id="italyseriecpicernovsgiugliano" tvg-name="Italy - Serie C : Picerno vs Giugliano (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/2/az-picerno-logo-png_seeklogo-524288.png" group-title="Eventi Live",Italy - Serie C : Picerno vs Giugliano (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-158.php
-
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravscrotone" tvg-name="Italy - Serie C : Team Altamura vs Crotone (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Team Altamura_vs_Crotone.png" group-title="Eventi Live",Italy - Serie C : Team Altamura vs Crotone (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-165.php
-
 #EXTINF:-1 tvg-id="italyserieagenoavsjuventus" tvg-name="Italy - Serie A : Genoa vs Juventus (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa_vs_Juventus.png" group-title="Eventi Live",Italy - Serie A : Genoa vs Juventus (18:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
@@ -1435,7 +1414,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230328/original/pngtree-tennis-us-open-2023-handwriting-png-image_9008024.png" group-title="Eventi Live",2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
-#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://uscourttennis.org/wp-content/uploads/2025/02/205-US-Open-Logo-CROP-1280x1116.png" group-title="Eventi Live",2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
+#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230328/original/pngtree-tennis-us-open-2023-handwriting-png-image_9008024.png" group-title="Eventi Live",2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
 
 #EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230328/original/pngtree-tennis-us-open-2023-handwriting-png-image_9008024.png" group-title="Eventi Live",2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
@@ -1452,12 +1431,6 @@ https://example.m3u8
 
 #EXTINF:-1 tvg-id="eurobasketbosniaherzegovinavsitaly" tvg-name="EuroBasket : Bosnia & Herzegovina vs Italy (20:30)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/200px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png" group-title="Eventi Live",EuroBasket : Bosnia & Herzegovina vs Italy (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
-
-#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="worldcupwomenitalywvssouthafricaw" tvg-name="World Cup Women : Italy W vs South Africa W (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy W_vs_South Africa W.png" group-title="Eventi Live",World Cup Women : Italy W vs South Africa W (16:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
