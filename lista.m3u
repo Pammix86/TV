@@ -1360,7 +1360,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://static.flashscore.com/res/image/data/p6bORFXI-IeQL4K13.png" group-title="Eventi Live",Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/3/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
