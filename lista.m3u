@@ -1378,7 +1378,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyseriecfoggiavslatina" tvg-name="Italy - Serie C : Foggia vs Latina (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Latina.png" group-title="Eventi Live",Italy - Serie C : Foggia vs Latina (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
-#EXTINF:-1 tvg-id="italyseriecpotenzacalciovscrotone" tvg-name="Italy - Serie C : Potenza Calcio vs Crotone (20:30)" tvg-logo="https://www.fcsorrento.com/wp-content/uploads/2023/08/Logo-Potenza.png" group-title="Eventi Live",Italy - Serie C : Potenza Calcio vs Crotone (20:30)
+#EXTINF:-1 tvg-id="italyseriecpotenzacalciovscrotone" tvg-name="Italy - Serie C : Potenza Calcio vs Crotone (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Potenza Calcio_vs_Crotone.png" group-title="Eventi Live",Italy - Serie C : Potenza Calcio vs Crotone (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-191.php
 
 #EXTINF:-1 tvg-id="bundesligabayerleverkusenvseintrachtfrankfurt" tvg-name="Bundesliga : Bayer Leverkusen vs Eintracht Frankfurt (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayer Leverkusen_vs_Eintracht Frankfurt.png" group-title="Eventi Live",Bundesliga : Bayer Leverkusen vs Eintracht Frankfurt (20:30)
@@ -1387,7 +1387,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/3/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/2/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
@@ -1408,7 +1408,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="motogpgpsanmarinopractice1" tvg-name="MotoGP : GP San Marino Practice 1 (13:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : GP San Marino Practice 1 (13:15)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2gpsanmarinopractice" tvg-name="Moto2 : GP San Marino Practice (13:55)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : GP San Marino Practice (13:55)
+#EXTINF:-1 tvg-id="moto2gpsanmarinopractice" tvg-name="Moto2 : GP San Marino Practice (13:55)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto2 : GP San Marino Practice (13:55)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-name="Beach Soccer" group-title="Eventi Live",--- Beach Soccer ---
