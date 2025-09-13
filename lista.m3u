@@ -1360,30 +1360,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebcatanzarovscarrarese" tvg-name="Italy - Serie B : Catanzaro vs Carrarese (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catanzaro_vs_Carrarese.png" group-title="Eventi Live",Italy - Serie B : Catanzaro vs Carrarese (17:15)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-161.php
-
-#EXTINF:-1 tvg-id="italyseriecforlvsgubbio" tvg-name="Italy - Serie C : Forlì vs Gubbio (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Forlì_vs_Gubbio.png" group-title="Eventi Live",Italy - Serie C : Forlì vs Gubbio (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-170.php
-
-#EXTINF:-1 tvg-id="italyseriecpontederavsrimini" tvg-name="Italy - Serie C : Pontedera vs Rimini (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Rimini.png" group-title="Eventi Live",Italy - Serie C : Pontedera vs Rimini (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-167.php
-
-#EXTINF:-1 tvg-id="italyserieccampobassovspineto" tvg-name="Italy - Serie C : Campobasso vs Pineto (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Campobasso_vs_Pineto.png" group-title="Eventi Live",Italy - Serie C : Campobasso vs Pineto (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-171.php
-
-#EXTINF:-1 tvg-id="italyseriecsiracusavsbenevento" tvg-name="Italy - Serie C : Siracusa vs Benevento (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Benevento.png" group-title="Eventi Live",Italy - Serie C : Siracusa vs Benevento (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-166.php
-
-#EXTINF:-1 tvg-id="italyseriecsiracusavsbenevento" tvg-name="Italy - Serie C : Siracusa vs Benevento (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Benevento.png" group-title="Eventi Live",Italy - Serie C : Siracusa vs Benevento (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
-
-#EXTINF:-1 tvg-id="italyseriecpicernovsvirtuscasarano" tvg-name="Italy - Serie C : Picerno vs Virtus Casarano (17:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/2/az-picerno-logo-png_seeklogo-524288.png" group-title="Eventi Live",Italy - Serie C : Picerno vs Virtus Casarano (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-169.php
-
-#EXTINF:-1 tvg-id="italyserieajuventusvsinternazionale" tvg-name="Italy - Serie A : Juventus vs Internazionale (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Internazionale.png" group-title="Eventi Live",Italy - Serie A : Juventus vs Internazionale (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
-
 #EXTINF:-1 tvg-id="englandpremierleaguewesthamunitedvstottenhamhotspur" tvg-name="England - Premier League : West Ham United vs Tottenham Hotspur (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/West Ham United_vs_Tottenham Hotspur.png" group-title="Eventi Live",England - Premier League : West Ham United vs Tottenham Hotspur (18:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
 
@@ -1401,12 +1377,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-id="englandpremierleaguebrentfordvschelsea" tvg-name="England - Premier League : Brentford vs Chelsea (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brentford_vs_Chelsea.png" group-title="Eventi Live",England - Premier League : Brentford vs Chelsea (21:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
-
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/2/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
