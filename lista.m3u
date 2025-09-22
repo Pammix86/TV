@@ -1369,12 +1369,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyserieanapolivspisa" tvg-name="Italy - Serie A : Napoli vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Pisa.png" group-title="Eventi Live",Italy - Serie A : Napoli vs Pisa (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
 
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="bjkcupfinalsquarterfinalsusavkazjpnvgbrseoulwtachengduatpearlyrounds" tvg-name="BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP Early Rounds (12:00)" tvg-logo="https://assets.stickpng.com/images/62665ca61e92f9aac65b5bd4.png" group-title="Eventi Live",BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP Early Rounds (12:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
