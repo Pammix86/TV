@@ -1357,7 +1357,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3171202588/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
+#EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="coppaitaliacagliarivsfrosinone" tvg-name="Coppa Italia : Cagliari vs Frosinone (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Frosinone.png" group-title="Eventi Live",Coppa Italia : Cagliari vs Frosinone (17:00)
@@ -1417,7 +1417,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="atp250chengduatp250hangzhou" tvg-name="ATP 250 Chengdu, ATP 250 Hangzhou (13:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live",ATP 250 Chengdu, ATP 250 Hangzhou (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://www.phenomenalglobe.com/wp-content/uploads/2019/12/Tokyo-Tower-at-night.jpg" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA 1st Round (04:00)
+#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://res.cloudinary.com/dk-hub/image/upload/q_81,w_1280,c_limit,f_auto/dk-core-nonprod/000-upload/tv1ak8v8dke2krgtwlk7.png" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA 1st Round (04:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -1444,7 +1444,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="fivbworldchampionshiptunisiavsczechrepublic" tvg-name="FIVB World Championship : Tunisia vs Czech Republic (09:30)" tvg-logo="http://flagpedia.net/data/flags/ultra/tn.png" group-title="Eventi Live",FIVB World Championship : Tunisia vs Czech Republic (09:30)
+#EXTINF:-1 tvg-id="fivbworldchampionshiptunisiavsczechrepublic" tvg-name="FIVB World Championship : Tunisia vs Czech Republic (09:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tunisia_vs_Czech Republic.png" group-title="Eventi Live",FIVB World Championship : Tunisia vs Czech Republic (09:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
 #EXTINF:-1 tvg-id="fivbworldchampionshipserbiavsiran" tvg-name="FIVB World Championship : Serbia vs Iran (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Serbia_vs_Iran.png" group-title="Eventi Live",FIVB World Championship : Serbia vs Iran (14:00)
