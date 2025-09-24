@@ -1360,12 +1360,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecsiracusavspotenzacalcio" tvg-name="Italy - Serie C : Siracusa vs Potenza Calcio (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Potenza Calcio.png" group-title="Eventi Live",Italy - Serie C : Siracusa vs Potenza Calcio (17:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
-
-#EXTINF:-1 tvg-id="coppaitaliaparmavsspezia" tvg-name="Coppa Italia : Parma vs Spezia (17:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/2hy1M5XnOLRXR7X/parma-2001-2004-logo.png" group-title="Eventi Live",Coppa Italia : Parma vs Spezia (17:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-857.php
-
 #EXTINF:-1 tvg-id="italyserieccosenzavsgiugliano" tvg-name="Italy - Serie C : Cosenza vs Giugliano (18:30)" tvg-logo="https://i.pinimg.com/originals/66/a9/27/66a927ed14521893859d4f476292beb3.png" group-title="Eventi Live",Italy - Serie C : Cosenza vs Giugliano (18:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-161.php
 
