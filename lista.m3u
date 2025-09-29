@@ -1393,7 +1393,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta" tvg-name="Tokyo-ATP & Beijing-WTA (13:00)" tvg-logo="https://www.phenomenalglobe.com/wp-content/uploads/2019/12/Tokyo-Tower-at-night.jpg" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA (13:00)
+#EXTINF:-1 tvg-id="tokyoatpbeijingwta" tvg-name="Tokyo-ATP & Beijing-WTA (13:00)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/56/Tokyo_Tower_and_surrounding_area.jpg" group-title="Eventi Live",Tokyo-ATP & Beijing-WTA (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 
