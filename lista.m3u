@@ -919,15 +919,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiafreepractice1" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiafreepractice" tvg-name="MotoGP : Greek Grand Prix of Indonesia Free Practice (03:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Free Practice (03:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiafreepractice1" tvg-name="Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
 #EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiapractice1" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
@@ -946,13 +937,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="seriea2mestrevsbalturcento" tvg-name="Serie A2 : Mestre vs Baltur Cento (20:55)" tvg-logo="https://portedimestre.it/wp-content/uploads/2023/09/LOGO-VERTICALE.png" group-title="Eventi Live",Serie A2 : Mestre vs Baltur Cento (20:55)
+#EXTINF:-1 tvg-id="seriea2mestrevsbalturcento" tvg-name="Serie A2 : Mestre vs Baltur Cento (20:55)" tvg-logo="https://images.seeklogo.com/logo-png/29/3/ac-mestre-logo-png_seeklogo-290300.png?v=1962735973879756920" group-title="Eventi Live",Serie A2 : Mestre vs Baltur Cento (20:55)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="2025europeanroadchampionshipsmixedteamtimetrialfromdromeardeche" tvg-name="2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://www.uec.ch/bundles/uecfront/img/xlogowhite.png" group-title="Eventi Live",2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
+#EXTINF:-1 tvg-id="2025europeanroadchampionshipsmixedteamtimetrialfromdromeardeche" tvg-name="2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://uspr.fr/wp-content/uploads/2022/07/Logo-District-600x669.png" group-title="Eventi Live",2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 #EXTINF:-1 tvg-id="croracestage4menkrklabin1875km" tvg-name="Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)
