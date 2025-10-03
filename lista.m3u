@@ -202,10 +202,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2289038972/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/830949486/index.m3u8
@@ -895,7 +895,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="italyseriecpianesevslivorno" tvg-name="Italy - Serie C : Pianese vs Livorno (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pianese_vs_Livorno.png" group-title="Eventi Live",Italy - Serie C : Pianese vs Livorno (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-77.php
 
-#EXTINF:-1 tvg-id="italyseriecriminivsarezzo" tvg-name="Italy - Serie C : Rimini vs Arezzo (20:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/thumb/WL7gz88VwEf73Vf/rimini-2015-2024-logo.png" group-title="Eventi Live",Italy - Serie C : Rimini vs Arezzo (20:30)
+#EXTINF:-1 tvg-id="italyseriecriminivsarezzo" tvg-name="Italy - Serie C : Rimini vs Arezzo (20:30)" tvg-logo="https://sport-science.org/images/ECSS_2025/Rimini_2024.png" group-title="Eventi Live",Italy - Serie C : Rimini vs Arezzo (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-86.php
 
 #EXTINF:-1 tvg-id="italyserieclatinavsbenevento" tvg-name="Italy - Serie C : Latina vs Benevento (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Benevento.png" group-title="Eventi Live",Italy - Serie C : Latina vs Benevento (20:30)
@@ -919,7 +919,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiapractice1" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiapractice1" tvg-name="Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)" tvg-logo="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/2422d558-8442-453f-aec1-fb20d02f72d6/original.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiapractice1" tvg-name="Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)
@@ -928,10 +928,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiapractice1" tvg-name="MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice1" tvg-name="Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice1" tvg-name="Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/04/F1-Formula-One-Logo.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice2" tvg-name="Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice2" tvg-name="Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/01/Formula-One-PNG-HD.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
