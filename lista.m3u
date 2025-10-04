@@ -898,7 +898,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyserieawomenromavsparma" tvg-name="Italy - Serie A (women) : Roma vs Parma (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Parma.png" group-title="Eventi Live",Italy - Serie A (women) : Roma vs Parma (12:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-108.php
 
-#EXTINF:-1 tvg-id="bundesliga2holsteinkielvsdarmstadt98" tvg-name="Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/301139/20210529155508_911_mascot1280Near.png" group-title="Eventi Live",Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
+#EXTINF:-1 tvg-id="bundesliga2holsteinkielvsdarmstadt98" tvg-name="Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://secure.ganaderia.com/razas/Raza593195a9bf291_02062017.jpg" group-title="Eventi Live",Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-190.php
 
 #EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvstottenhamhotspur" tvg-name="England - Premier League : Leeds United vs Tottenham Hotspur (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Tottenham Hotspur.png" group-title="Eventi Live",England - Premier League : Leeds United vs Tottenham Hotspur (13:30)
@@ -1003,10 +1003,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice3" tvg-name="Formula 1 : SIA Singapore Grand Prix - Practice 3 (11:30)" tvg-logo="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/algebraic-formula-image-4-1613715650.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Practice 3 (11:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixqualifying" tvg-name="Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)" tvg-logo="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/algebraic-formula-image-4-1613715650.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixqualifying" tvg-name="Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
 #EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations1strace" tvg-name="World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live",World Championship | Motocross of Nations 1st Race (19:00)
@@ -1023,9 +1020,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="rugbychampionshipaustraliavsnewzealand" tvg-name="Rugby Championship : Australia vs New Zealand (11:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Australia_vs_New Zealand.png" group-title="Eventi Live",Rugby Championship : Australia vs New Zealand (11:45)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 #EXTINF:-1 tvg-id="rugbychampionshipargentinavssouthafrica" tvg-name="Rugby Championship : Argentina vs South Africa (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_South Africa.png" group-title="Eventi Live",Rugby Championship : Argentina vs South Africa (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
