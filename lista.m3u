@@ -922,7 +922,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyserieccataniavssiracusa" tvg-name="Italy - Serie C : Catania vs Siracusa (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Siracusa.png" group-title="Eventi Live",Italy - Serie C : Catania vs Siracusa (14:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-163.php
 
-#EXTINF:-1 tvg-id="italyseriectrapani1905vsgiugliano" tvg-name="Italy - Serie C : Trapani 1905 vs Giugliano (14:30)" tvg-logo="https://1.bp.blogspot.com/-RnDTpzIDCBs/YQbgKMIYh-I/AAAAAAABk80/8t5_EhzuuSA6gY-rxNlvw1O7LizjoQYZwCLcBGAsYHQ/s256/Trapani%2BCalcio256x.png" group-title="Eventi Live",Italy - Serie C : Trapani 1905 vs Giugliano (14:30)
+#EXTINF:-1 tvg-id="italyseriectrapani1905vsgiugliano" tvg-name="Italy - Serie C : Trapani 1905 vs Giugliano (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani 1905_vs_Giugliano.png" group-title="Eventi Live",Italy - Serie C : Trapani 1905 vs Giugliano (14:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-167.php
 
 #EXTINF:-1 tvg-id="italyseriecsalernitanavscavese" tvg-name="Italy - Serie C : Salernitana vs Cavese (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Cavese.png" group-title="Eventi Live",Italy - Serie C : Salernitana vs Cavese (14:30)
@@ -952,7 +952,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="serieawomengenoavsmilan" tvg-name="Serie A (women) : Genoa vs Milan (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa_vs_Milan.png" group-title="Eventi Live",Serie A (women) : Genoa vs Milan (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-192.php
 
-#EXTINF:-1 tvg-id="franceligue1monacovsnice" tvg-name="France - Ligue 1 : Monaco vs Nice (17:15)" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-2048.png" group-title="Eventi Live",France - Ligue 1 : Monaco vs Nice (17:15)
+#EXTINF:-1 tvg-id="franceligue1monacovsnice" tvg-name="France - Ligue 1 : Monaco vs Nice (17:15)" tvg-logo="https://i.pinimg.com/originals/a1/d3/e7/a1d3e74f3968e89d9e36236e86756629.png" group-title="Eventi Live",France - Ligue 1 : Monaco vs Nice (17:15)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
 
 #EXTINF:-1 tvg-id="italyseriebsampdoriavspescara" tvg-name="Italy - Serie B : Sampdoria vs Pescara (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sampdoria_vs_Pescara.png" group-title="Eventi Live",Italy - Serie B : Sampdoria vs Pescara (17:15)
@@ -1000,7 +1000,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://logodetimes.com/times/football-club-internazionale-milano/football-club-internazionale-milano-4096.png" group-title="Eventi Live",Italy - Serie C : Inter II vs Ospitaletto (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-163.php
 
-#EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://img-prod.sportmediaset.mediaset.it/images/2021/03/30/075815112-076c2252-14f2-4e86-8cc1-446fa93f6866.png" group-title="Eventi Live",Italy - Serie C : Inter II vs Ospitaletto (20:30)
+#EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://logodetimes.com/times/football-club-internazionale-milano/football-club-internazionale-milano-4096.png" group-title="Eventi Live",Italy - Serie C : Inter II vs Ospitaletto (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
 #EXTINF:-1 tvg-id="italyseriecaudacecerignolavscosenza" tvg-name="Italy - Serie C : Audace Cerignola vs Cosenza (20:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/720350.png?v4" group-title="Eventi Live",Italy - Serie C : Audace Cerignola vs Cosenza (20:30)
@@ -1015,19 +1015,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266996c2c88722059d58713.png" group-title="Eventi Live",WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
+#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://stickypng.com/wp-content/uploads/2023/07/6266996c2c88722059d58713.png" group-title="Eventi Live",WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiawarmup" tvg-name="MotoGP : Greek Grand Prix of Indonesia Warm Up (04:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Warm Up (04:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiarace" tvg-name="Moto3 : Greek Grand Prix of Indonesia Race (05:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Moto3 : Greek Grand Prix of Indonesia Race (05:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiarace" tvg-name="Moto2 : Greek Grand Prix of Indonesia Race (07:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Greek Grand Prix of Indonesia Race (07:00)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiarace" tvg-name="Moto2 : Greek Grand Prix of Indonesia Race (07:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto2 : Greek Grand Prix of Indonesia Race (07:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiarace" tvg-name="MotoGP : Greek Grand Prix of Indonesia Race (08:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Indonesia Race (08:15)
@@ -1045,13 +1039,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="motocrossofnationsrace2ironmanraceway" tvg-name="Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motocross of Nations Race 2 | Ironman Raceway (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations3rdrace" tvg-name="World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://www.ironman.com/sites/default/files/styles/coh_medium/public/2025-04/2026_IM_70.3_World_Championship_Qualifier_Badge_800x800_0.png?itok=f-aDx-Yt" group-title="Eventi Live",World Championship | Motocross of Nations 3rd Race (22:00)
+#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations3rdrace" tvg-name="World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://nirvanaeurope.com/wp-content/uploads/2023/05/IM70.3-WC-2024.png" group-title="Eventi Live",World Championship | Motocross of Nations 3rd Race (22:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="latemarrunpampeago2025" tvg-name="Latemar Run Pampeago 2025 (16:30)" tvg-logo="https://manager-cdn.gvanzo.it/crocebiancatesero/multimedias/6dbb86e0-aa14-4832-b151-d3786a321045/p_pampeago.png" group-title="Eventi Live",Latemar Run Pampeago 2025 (16:30)
+#EXTINF:-1 tvg-id="latemarrunpampeago2025" tvg-name="Latemar Run Pampeago 2025 (16:30)" tvg-logo="https://www.lodgeskipampeago.it/grafica/logo500x500.png" group-title="Eventi Live",Latemar Run Pampeago 2025 (16:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
