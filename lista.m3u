@@ -373,10 +373,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", DISCOVERY K2
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
@@ -514,10 +514,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431/ind
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924/index.m3u8
@@ -1000,7 +1000,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://logodetimes.com/times/football-club-internazionale-milano/football-club-internazionale-milano-4096.png" group-title="Eventi Live",Italy - Serie C : Inter II vs Ospitaletto (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-163.php
 
-#EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://logodetimes.com/times/football-club-internazionale-milano/football-club-internazionale-milano-4096.png" group-title="Eventi Live",Italy - Serie C : Inter II vs Ospitaletto (20:30)
+#EXTINF:-1 tvg-id="italyseriecinteriivsospitaletto" tvg-name="Italy - Serie C : Inter II vs Ospitaletto (20:30)" tvg-logo="https://b.fssta.com/uploads/application/soccer/team-logos/inter-miami-fc-2.vresize.350.350.medium.0.png" group-title="Eventi Live",Italy - Serie C : Inter II vs Ospitaletto (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
 #EXTINF:-1 tvg-id="italyseriecaudacecerignolavscosenza" tvg-name="Italy - Serie C : Audace Cerignola vs Cosenza (20:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/720350.png?v=1" group-title="Eventi Live",Italy - Serie C : Audace Cerignola vs Cosenza (20:30)
@@ -1015,7 +1015,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://stickypng.com/wp-content/uploads/2023/07/6266996c2c88722059d58713.png" group-title="Eventi Live",WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
+#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/x16ihc1546113079.png" group-title="Eventi Live",WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
@@ -1039,16 +1039,16 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="latemarrunpampeago2025" tvg-name="Latemar Run Pampeago 2025 (16:30)" tvg-logo="https://www.lodgeskipampeago.it/grafica/logo500x500.png" group-title="Eventi Live",Latemar Run Pampeago 2025 (16:30)
+#EXTINF:-1 tvg-id="latemarrunpampeago2025" tvg-name="Latemar Run Pampeago 2025 (16:30)" tvg-logo="https://www.spized.com/media/cb/fb/d0/1698029186/656996b8-1de1-a1dd-60de-875663d9ed33_PSAX791187.png" group-title="Eventi Live",Latemar Run Pampeago 2025 (16:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupwomenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)" tvg-logo="https://tvlistings.eu/img/germany/logo/eurosport-1.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)
+#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupwomenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
-#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="UCI Cross-country Olympic World Cup | Men Elite | Lake Placid WHOOP UCI Mountain Bike World Series (22:30)" tvg-logo="https://europeanaquatics.org/wp-content/uploads/2025/10/Screen-Shot-2025-10-02-at-21.07.14-1024x567.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Men Elite | Lake Placid WHOOP UCI Mountain Bike World Series (22:30)
+#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="UCI Cross-country Olympic World Cup | Men Elite | Lake Placid WHOOP UCI Mountain Bike World Series (22:30)" tvg-logo="https://mtvanhoevenberg.com/wp-content/uploads/sites/6/2024/04/UCI-MTB-Racers-Arrow_V2.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Men Elite | Lake Placid WHOOP UCI Mountain Bike World Series (22:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
