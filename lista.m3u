@@ -202,10 +202,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2289038972/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/830949486/index.m3u8
@@ -592,10 +592,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1565298794/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3 (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1200985239/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro", ITALIAN FISHING TV
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/477083716/index.m3u8
@@ -892,49 +892,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavstrento" tvg-name="Italy - Serie C : Pro Patria vs Trento (14:30)" tvg-logo="http://assets.stickpng.com/thumbs/584aaec530d6736bca3d6ddc.png" group-title="Eventi Live",Italy - Serie C : Pro Patria vs Trento (14:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-182.php
-
-#EXTINF:-1 tvg-id="italyseriecprovercellivsdolomitibellunesi" tvg-name="Italy - Serie C : Pro Vercelli vs Dolomiti Bellunesi (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Dolomiti Bellunesi.png" group-title="Eventi Live",Italy - Serie C : Pro Vercelli vs Dolomiti Bellunesi (14:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-166.php
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsvirtuscasarano" tvg-name="Italy - Serie C : Casertana vs Virtus Casarano (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana_vs_Virtus Casarano.png" group-title="Eventi Live",Italy - Serie C : Casertana vs Virtus Casarano (14:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-164.php
-
-#EXTINF:-1 tvg-id="italyserieccataniavssiracusa" tvg-name="Italy - Serie C : Catania vs Siracusa (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Siracusa.png" group-title="Eventi Live",Italy - Serie C : Catania vs Siracusa (14:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-163.php
-
-#EXTINF:-1 tvg-id="italyseriectrapani1905vsgiugliano" tvg-name="Italy - Serie C : Trapani 1905 vs Giugliano (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani 1905_vs_Giugliano.png" group-title="Eventi Live",Italy - Serie C : Trapani 1905 vs Giugliano (14:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-167.php
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscavese" tvg-name="Italy - Serie C : Salernitana vs Cavese (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Cavese.png" group-title="Eventi Live",Italy - Serie C : Salernitana vs Cavese (14:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-165.php
-
-#EXTINF:-1 tvg-id="englandpremierleagueastonvillavsburnley" tvg-name="England - Premier League : Aston Villa vs Burnley (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Burnley.png" group-title="Eventi Live",England - Premier League : Aston Villa vs Burnley (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
-
-#EXTINF:-1 tvg-id="englandpremierleagueevertonvscrystalpalace" tvg-name="England - Premier League : Everton vs Crystal Palace (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_Crystal Palace.png" group-title="Eventi Live",England - Premier League : Everton vs Crystal Palace (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-162.php
-
-#EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsnottinghamforest" tvg-name="England - Premier League : Newcastle United vs Nottingham Forest (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Nottingham Forest.png" group-title="Eventi Live",England - Premier League : Newcastle United vs Nottingham Forest (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
-
-#EXTINF:-1 tvg-id="italyserieabolognavspisa" tvg-name="Italy - Serie A : Bologna vs Pisa (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Pisa.png" group-title="Eventi Live",Italy - Serie A : Bologna vs Pisa (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-105.php
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavsroma" tvg-name="Italy - Serie A : Fiorentina vs Roma (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Roma.png" group-title="Eventi Live",Italy - Serie A : Fiorentina vs Roma (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
-
-#EXTINF:-1 tvg-id="italyseriebsdtirolvsempoli" tvg-name="Italy - Serie B : Südtirol vs Empoli (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Südtirol_vs_Empoli.png" group-title="Eventi Live",Italy - Serie B : Südtirol vs Empoli (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-106.php
-
-#EXTINF:-1 tvg-id="italyseriebcarraresevsjuvestabia" tvg-name="Italy - Serie B : Carrarese vs Juve Stabia (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Carrarese_vs_Juve Stabia.png" group-title="Eventi Live",Italy - Serie B : Carrarese vs Juve Stabia (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-107.php
-
-#EXTINF:-1 tvg-id="serieawomengenoavsmilan" tvg-name="Serie A (women) : Genoa vs Milan (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa_vs_Milan.png" group-title="Eventi Live",Serie A (women) : Genoa vs Milan (15:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-192.php
-
-#EXTINF:-1 tvg-id="franceligue1monacovsnice" tvg-name="France - Ligue 1 : Monaco vs Nice (17:15)" tvg-logo="https://i.pinimg.com/originals/a1/d3/e7/a1d3e74f3968e89d9e36236e86756629.png" group-title="Eventi Live",France - Ligue 1 : Monaco vs Nice (17:15)
+#EXTINF:-1 tvg-id="franceligue1monacovsnice" tvg-name="France - Ligue 1 : Monaco vs Nice (17:15)" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-2048.png" group-title="Eventi Live",France - Ligue 1 : Monaco vs Nice (17:15)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
 
 #EXTINF:-1 tvg-id="italyseriebsampdoriavspescara" tvg-name="Italy - Serie B : Sampdoria vs Pescara (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sampdoria_vs_Pescara.png" group-title="Eventi Live",Italy - Serie B : Sampdoria vs Pescara (17:15)
@@ -994,22 +952,16 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyserieajuventusvsmilan" tvg-name="Italy - Serie A : Juventus vs Milan (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Milan.png" group-title="Eventi Live",Italy - Serie A : Juventus vs Milan (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/x16ihc1546113079.png" group-title="Eventi Live",WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (14:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="motocrossofnationsrace1ironmanraceway" tvg-name="Motocross of Nations Race 1 | Ironman Raceway (19:00)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motocross of Nations Race 1 | Ironman Raceway (19:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="motocrossofnationsrace2ironmanraceway" tvg-name="Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://rxi.iscdn.net/2023/12/279664_566365teamshootrbktmsxmx2024teamshootingrbktmsxmx2024-remov.png" group-title="Eventi Live",Motocross of Nations Race 2 | Ironman Raceway (20:30)
+#EXTINF:-1 tvg-id="motocrossofnationsrace2ironmanraceway" tvg-name="Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motocross of Nations Race 2 | Ironman Raceway (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations3rdrace" tvg-name="World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://www.ironman.com/sites/default/files/styles/coh_medium/public/2025-04/2026_IM_70.3_World_Championship_Qualifier_Badge_800x800_0.png?itok=f-aDx-Yt" group-title="Eventi Live",World Championship | Motocross of Nations 3rd Race (22:00)
+#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations3rdrace" tvg-name="World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://www.ironman.com/sites/default/files/styles/coh_medium/public/2024-11/2026_IM-World-Championship-Qualifier-Seal.png?itok=CsF5Sije" group-title="Eventi Live",World Championship | Motocross of Nations 3rd Race (22:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
@@ -1032,9 +984,6 @@ https://example.m3u8
 
 #EXTINF:-1 tvg-id="top14avironbayonnaisvsstadetoulousain" tvg-name="Top 14 : Aviron Bayonnais vs Stade Toulousain (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aviron Bayonnais_vs_Stade Toulousain.png" group-title="Eventi Live",Top 14 : Aviron Bayonnais vs Stade Toulousain (21:05)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
-
-#EXTINF:-1 tvg-id="unitedrugbychampionshipzebrevslions" tvg-name="United Rugby Championship : Zebre vs Lions (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Zebre_vs_Lions.png" group-title="Eventi Live",United Rugby Championship : Zebre vs Lions (16:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
