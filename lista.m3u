@@ -373,10 +373,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", DISCOVERY K2
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
@@ -892,13 +892,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (06:30)" tvg-logo="https://stickypng.com/wp-content/uploads/2023/07/6266996c2c88722059d58713.png" group-title="Eventi Live",WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (06:30)
+#EXTINF:-1 tvg-id="wtatour1000beijingatptour1000shanghai" tvg-name="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (06:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/x16ihc1546113079.png" group-title="Eventi Live",WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai (06:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="binchechimaybinche197km1980m" tvg-name="Binche - Chimay - Binche | 197 km | 1980 m (13:00)" tvg-logo="https://lessinescyclismeonweb.com/wp-content/uploads/2025/10/25-1.png?w=517" group-title="Eventi Live",Binche - Chimay - Binche | 197 km | 1980 m (13:00)
+#EXTINF:-1 tvg-id="binchechimaybinche197km1980m" tvg-name="Binche - Chimay - Binche | 197 km | 1980 m (13:00)" tvg-logo="https://bierwinkelblondenstout.nl/wp-content/uploads/C3747802-C1EE-47FC-95B8-0C638B00861C.png" group-title="Eventi Live",Binche - Chimay - Binche | 197 km | 1980 m (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
