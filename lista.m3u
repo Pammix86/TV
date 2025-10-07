@@ -892,16 +892,16 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="shanghaiatproundof16wuhanwta1stround" tvg-name="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)" tvg-logo="https://images.slivcdn.com/videoasset_images/rolexshanghaimasters2024_match_masthead_logo_round4_hlts.png?q=high" group-title="Eventi Live",Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)
+#EXTINF:-1 tvg-id="shanghaiatproundof16wuhanwta1stround" tvg-name="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)" tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/shanghai.png" group-title="Eventi Live",Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Xi'an Grand Prix | Round 1 (08:00)" tvg-logo="https://images.seeklogo.com/logo-png/18/2/round1-logo-png_seeklogo-181574.png" group-title="Eventi Live",Xi'an Grand Prix | Round 1 (08:00)
+#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Xi'an Grand Prix | Round 1 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 1 (08:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
-#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Xi'an Grand Prix | Round 1 (13:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Grand_Prix_Stern_Logo.png/revision/latest/scale-to-width-down/1200?cb=20251004222526" group-title="Eventi Live",Xi'an Grand Prix | Round 1 (13:30)
+#EXTINF:-1 tvg-id="xiangrandprixround1" tvg-name="Xi'an Grand Prix | Round 1 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'an Grand Prix | Round 1 (13:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
