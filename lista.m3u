@@ -253,10 +253,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/86091226/inde
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (D)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-861.php
@@ -514,10 +514,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431/ind
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924/index.m3u8
@@ -910,7 +910,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswta" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tv-sports.fr/photos/sport/competitions/680.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswta" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tennisliveranking.oss-ap-southeast-1.aliyuncs.com/assets/img/wta.png?t=20241030" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
@@ -922,7 +922,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
+#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/68d80dd6e6840.png" group-title="Eventi Live",UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 
