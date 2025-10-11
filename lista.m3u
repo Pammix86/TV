@@ -202,10 +202,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2289038972/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/830949486/index.m3u8
@@ -514,10 +514,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431/ind
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924/index.m3u8
@@ -643,10 +643,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1087345241/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3124512993/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro", PRIMA TV
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/91764224/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/530658045/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro", PRIMA TV (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/530658045/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/91764224/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMO CANALE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/primocanale-it.png?raw=true" group-title="Altro", PRIMO CANALE
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3497884599/index.m3u8
@@ -891,39 +891,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="italyserieawomenfiorentinavsintermilano" tvg-name="Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
-
-#EXTINF:-1 tvg-id="italyserieawomenfiorentinavsintermilano" tvg-name="Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
-#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
-
-#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.padovacalcio.it/wp-content/uploads/2022/08/vicenza.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
-
-#EXTINF:-1 tvg-id="italyseriecpergolettesevsalcione" tvg-name="Italy - Serie C : Pergolettese vs Alcione (17:30)" tvg-logo="https://www.studiolegalechiacchio.com/assets/images/pergolettese-piccolo.png" group-title="Eventi Live",Italy - Serie C : Pergolettese vs Alcione (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-170.php
-
-#EXTINF:-1 tvg-id="italyseriecforlvsternana" tvg-name="Italy - Serie C : Forlì vs Ternana (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Forlì_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Forlì vs Ternana (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
-
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivspianese" tvg-name="Italy - Serie C : Nuova Monterosi vs Pianese (17:30)" tvg-logo="https://cdn.transferfeed.com/nuova-monterosi-13788.png" group-title="Eventi Live",Italy - Serie C : Nuova Monterosi vs Pianese (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-171.php
-
-#EXTINF:-1 tvg-id="italyseriecpinetovslivorno" tvg-name="Italy - Serie C : Pineto vs Livorno (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Livorno.png" group-title="Eventi Live",Italy - Serie C : Pineto vs Livorno (17:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
-
-#EXTINF:-1 tvg-id="worldcupqualifyingnorwayvsisrael" tvg-name="World Cup Qualifying : Norway vs Israel (18:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230512/original/pngtree-made-in-norway-stamp-with-national-flag-png-image_9159162.png" group-title="Eventi Live",World Cup Qualifying : Norway vs Israel (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
-
-#EXTINF:-1 tvg-id="worldcupqualifyinghungaryvsarmenia" tvg-name="World Cup Qualifying : Hungary vs Armenia (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hungary_vs_Armenia.png" group-title="Eventi Live",World Cup Qualifying : Hungary vs Armenia (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-14.php
-
-#EXTINF:-1 tvg-id="worldcupqualifyinghungaryvsarmenia" tvg-name="World Cup Qualifying : Hungary vs Armenia (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hungary_vs_Armenia.png" group-title="Eventi Live",World Cup Qualifying : Hungary vs Armenia (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 #EXTINF:-1 tvg-id="worldcupqualifyingspainvsgeorgia" tvg-name="World Cup Qualifying : Spain vs Georgia (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Spain_vs_Georgia.png" group-title="Eventi Live",World Cup Qualifying : Spain vs Georgia (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
