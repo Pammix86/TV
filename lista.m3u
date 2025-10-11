@@ -514,10 +514,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431/ind
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924/index.m3u8
@@ -643,10 +643,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1087345241/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3124512993/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro", PRIMA TV
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/91764224/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/530658045/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro", PRIMA TV (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/530658045/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/91764224/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMO CANALE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/primocanale-it.png?raw=true" group-title="Altro", PRIMO CANALE
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3497884599/index.m3u8
@@ -925,7 +925,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyserieawomenfiorentinavsintermilano" tvg-name="Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.padovacalcio.it/wp-content/uploads/2022/08/vicenza.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
 
 #EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
@@ -967,16 +967,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Xi'An Grand Prix | Quarter-Final (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'An Grand Prix | Quarter-Final (08:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
-
 #EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Xi'An Grand Prix | Quarter-Final (13:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://www.seekpng.com/png/full/791-7912023_funnel-structure-bulls-eye.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
+#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
