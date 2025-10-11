@@ -592,10 +592,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1565298794/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro", ITALIA 3 (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1200985239/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro", ITALIAN FISHING TV
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/477083716/index.m3u8
@@ -889,7 +889,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2015312510/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
+#EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="italyserieawomenlaziovsgenoa" tvg-name="Italy - Serie A (women) : Lazio vs Genoa (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Genoa.png" group-title="Eventi Live",Italy - Serie A (women) : Lazio vs Genoa (12:30)
@@ -910,7 +910,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyseriecgiuglianovscatania" tvg-name="Italy - Serie C : Giugliano vs Catania (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Catania.png" group-title="Eventi Live",Italy - Serie C : Giugliano vs Catania (14:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
-#EXTINF:-1 tvg-id="italyseriecpicernovscasertana" tvg-name="Italy - Serie C : Picerno vs Casertana (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/43/2/az-picerno-asd-logo-png_seeklogo-439004.png" group-title="Eventi Live",Italy - Serie C : Picerno vs Casertana (14:30)
+#EXTINF:-1 tvg-id="italyseriecpicernovscasertana" tvg-name="Italy - Serie C : Picerno vs Casertana (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Picerno_vs_Casertana.png" group-title="Eventi Live",Italy - Serie C : Picerno vs Casertana (14:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-171.php
 
 #EXTINF:-1 tvg-id="worldcupqualifyinglatviavsandorra" tvg-name="World Cup Qualifying : Latvia vs Andorra (15:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/latvia-logo-png-transparent.png" group-title="Eventi Live",World Cup Qualifying : Latvia vs Andorra (15:00)
@@ -928,7 +928,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.padovacalcio.it/wp-content/uploads/2022/08/vicenza.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.padovacalcio.it/wp-content/uploads/2022/08/vicenza.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
 
 #EXTINF:-1 tvg-id="italyseriecpergolettesevsalcione" tvg-name="Italy - Serie C : Pergolettese vs Alcione (17:30)" tvg-logo="https://www.studiolegalechiacchio.com/assets/images/pergolettese-piccolo.png" group-title="Eventi Live",Italy - Serie C : Pergolettese vs Alcione (17:30)
@@ -952,7 +952,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="worldcupqualifyinghungaryvsarmenia" tvg-name="World Cup Qualifying : Hungary vs Armenia (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hungary_vs_Armenia.png" group-title="Eventi Live",World Cup Qualifying : Hungary vs Armenia (18:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
-#EXTINF:-1 tvg-id="worldcupqualifyingspainvsgeorgia" tvg-name="World Cup Qualifying : Spain vs Georgia (20:45)" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Eventi Live",World Cup Qualifying : Spain vs Georgia (20:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingspainvsgeorgia" tvg-name="World Cup Qualifying : Spain vs Georgia (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Spain_vs_Georgia.png" group-title="Eventi Live",World Cup Qualifying : Spain vs Georgia (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
 
 #EXTINF:-1 tvg-id="worldcupqualifyingestoniavsitaly" tvg-name="World Cup Qualifying : Estonia vs Italy (20:45)" tvg-logo="https://1.bp.blogspot.com/-PMOxrVXK7BE/WeTjWSIj0VI/AAAAAAABPuE/JXMnTz5nPckuMsiyJNqFAz29QcOdUy-8gCLcBGAs/s1600/Estonia256x.png" group-title="Eventi Live",World Cup Qualifying : Estonia vs Italy (20:45)
@@ -961,13 +961,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentennis" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://www.poul-munk.dk/wp-content/uploads/Voyah-logo-blaa-png-01.11.2023-300x285.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentennis" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/tennis.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-name="MMA" group-title="Eventi Live",--- MMA ---
+#EXTINF:-1 tvg-name="UFC Fight Night - Oliveira vs Gamrot" group-title="Eventi Live",--- UFC Fight Night - Oliveira vs Gamrot ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="ufcfightnightmaincardcharlesoliveiravsmateuszgamrot" tvg-name="UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)" tvg-logo="https://static.topps.com/media/catalog/product/cache/85d1d431b9dc807689df3bf5f08e33f8/a/r/artuf-16c2s-24tn-0032_3.png" group-title="Eventi Live",UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)
+#EXTINF:-1 tvg-id="ufcfightnightmaincardcharlesoliveiravsmateuszgamrot" tvg-name="UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)" tvg-logo="https://www.shirtchic.com/media/catalog/product/C/P/CP-BPK-SP-UFC-Oliveira-LogoStickerArt_Layout.png" group-title="Eventi Live",UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
@@ -982,7 +982,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
+#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://www.seekpng.com/png/full/791-7912023_funnel-structure-bulls-eye.png" group-title="Eventi Live",Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
