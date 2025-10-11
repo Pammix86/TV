@@ -619,10 +619,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2835333400/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3889279895/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro", MOTORTREND (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3758728323/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro", ONDA NOVARA TV
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3134124967/index.m3u8
@@ -925,10 +925,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyserieawomenfiorentinavsintermilano" tvg-name="Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.padovacalcio.it/wp-content/uploads/2022/08/vicenza.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.cioccolandovi.it/wp-content/uploads/2019/09/LOGO-COMUNE-DI-VICENZA-PNG.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsvirtusverona" tvg-name="Italy - Serie C : Vicenza vs Virtus Verona (17:30)" tvg-logo="https://www.padovacalcio.it/wp-content/uploads/2022/08/vicenza.png" group-title="Eventi Live",Italy - Serie C : Vicenza vs Virtus Verona (17:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
 
 #EXTINF:-1 tvg-id="italyseriecpergolettesevsalcione" tvg-name="Italy - Serie C : Pergolettese vs Alcione (17:30)" tvg-logo="https://www.studiolegalechiacchio.com/assets/images/pergolettese-piccolo.png" group-title="Eventi Live",Italy - Serie C : Pergolettese vs Alcione (17:30)
@@ -961,14 +961,8 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentennis" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/tennis.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentennis" tvg-name="2025 Dongfeng Voyah Wuhan Open Tennis (10:30)" tvg-logo="https://www.poul-munk.dk/wp-content/uploads/Voyah-logo-blaa-png-01.11.2023-300x285.png" group-title="Eventi Live",2025 Dongfeng Voyah Wuhan Open Tennis (10:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-name="UFC Fight Night - Oliveira vs Gamrot" group-title="Eventi Live",--- UFC Fight Night - Oliveira vs Gamrot ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="ufcfightnightmaincardcharlesoliveiravsmateuszgamrot" tvg-name="UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)" tvg-logo="https://www.shirtchic.com/media/catalog/product/C/P/CP-BPK-SP-UFC-Oliveira-LogoStickerArt_Layout.png" group-title="Eventi Live",UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (01:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://example.m3u8
