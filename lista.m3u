@@ -892,10 +892,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/2/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
+#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
 
-#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/2/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
+#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
 
 #EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
@@ -906,18 +906,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
-
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
-
-#EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="xiangrandprixfinaleveningsession" tvg-name="Xi'An Grand Prix | Final | Evening Session (14:00)" tvg-logo="https://calendar.wincalendar.net/img/holiday/afl-grand-final-day.png" group-title="Eventi Live",Xi'An Grand Prix | Final | Evening Session (14:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
