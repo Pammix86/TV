@@ -253,10 +253,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/86091226/inde
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (D)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-861.php
@@ -715,10 +715,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1791879692/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2343767125/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SENATO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro", SENATO TV
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2895549551/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SENATO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro", SENATO TV (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2895549551/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro", SKY UNO
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8
@@ -853,10 +853,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3038112906/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1488746638/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UMBRIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro", UMBRIA TV
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2230919796/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1597386407/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UMBRIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro", UMBRIA TV (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1597386407/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2230919796/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNINETTUNO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRpKemP5FC0RLOQVhc9kPU71aJW9Tj9DU8g&s" group-title="Altro", UNINETTUNO
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/797328723/index.m3u8
@@ -892,16 +892,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="worldcupqualifyingestoniavsmoldova" tvg-name="World Cup Qualifying : Estonia vs Moldova (18:00)" tvg-logo="https://www.worldatlas.com/upload/4a/46/b4/counties-of-estonia-map.png" group-title="Eventi Live",World Cup Qualifying : Estonia vs Moldova (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
-
-#EXTINF:-1 tvg-id="europeeurou21qualifyingitalyu21vsarmeniau21" tvg-name="Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live",Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
-
 #EXTINF:-1 tvg-id="worldcupqualifyingitalyvsisrael" tvg-name="World Cup Qualifying : Italy vs Israel (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Israel.png" group-title="Eventi Live",World Cup Qualifying : Italy vs Israel (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-850.php
 
-#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://wallpaperaccess.com/full/1423589.jpg" group-title="Eventi Live",World Cup Qualifying : Portugal vs Hungary (20:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://www.worldatlas.com/img/country/portugal/physical.png" group-title="Eventi Live",World Cup Qualifying : Portugal vs Hungary (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
