@@ -715,10 +715,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1791879692/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2343767125/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SENATO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro", SENATO TV
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2895549551/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SENATO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro", SENATO TV (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2895549551/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro", SKY UNO
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8
@@ -889,23 +889,32 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2015312510/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/index.m3u8
 
 
-#EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
+#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+#EXTINF:-1 tvg-id="worldcupqualifyingestoniavsmoldova" tvg-name="World Cup Qualifying : Estonia vs Moldova (18:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/4/4c/Estonia_regions_map.png/563px-Estonia_regions_map.png" group-title="Eventi Live",World Cup Qualifying : Estonia vs Moldova (18:00)
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
-#EXTINF:-1 tvg-id="italyseriectrentovsprovercelli" tvg-name="Italy - Serie C : Trento vs Pro Vercelli (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live",Italy - Serie C : Trento vs Pro Vercelli (20:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
+#EXTINF:-1 tvg-id="europeeurou21qualifyingitalyu21vsarmeniau21" tvg-name="Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live",Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
+#EXTINF:-1 tvg-id="worldcupqualifyingitalyvsisrael" tvg-name="World Cup Qualifying : Italy vs Israel (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Israel.png" group-title="Eventi Live",World Cup Qualifying : Italy vs Israel (20:45)
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-850.php
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivslumezzane" tvg-name="Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Lumezzane.png" group-title="Eventi Live",Italy - Serie C : Dolomiti Bellunesi vs Lumezzane (20:30)
+#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://wikitravel.org/upload/shared/thumb/4/43/Portugal_regions.png/510px-Portugal_regions.png" group-title="Eventi Live",World Cup Qualifying : Portugal vs Hungary (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
+
+#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://example.m3u8
+
+#EXTINF:-1 tvg-id="cyclingtourofhollandprolog" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://www.torogrind.com/citadelcycling/images/citadellogo.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
