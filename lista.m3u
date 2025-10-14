@@ -892,7 +892,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="worldcupqualifyingestoniavsmoldova" tvg-name="World Cup Qualifying : Estonia vs Moldova (18:00)" tvg-logo="https://wikitravel.org/upload/shared/thumb/4/4c/Estonia_regions_map.png/563px-Estonia_regions_map.png" group-title="Eventi Live",World Cup Qualifying : Estonia vs Moldova (18:00)
+#EXTINF:-1 tvg-id="worldcupqualifyingestoniavsmoldova" tvg-name="World Cup Qualifying : Estonia vs Moldova (18:00)" tvg-logo="https://www.worldatlas.com/upload/4a/46/b4/counties-of-estonia-map.png" group-title="Eventi Live",World Cup Qualifying : Estonia vs Moldova (18:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
 #EXTINF:-1 tvg-id="europeeurou21qualifyingitalyu21vsarmeniau21" tvg-name="Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live",Europe - Euro U-21 Qualifying : Italy U21 vs Armenia U21 (18:15)
@@ -901,7 +901,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="worldcupqualifyingitalyvsisrael" tvg-name="World Cup Qualifying : Italy vs Israel (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Israel.png" group-title="Eventi Live",World Cup Qualifying : Italy vs Israel (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-850.php
 
-#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://wikitravel.org/upload/shared/thumb/4/43/Portugal_regions.png/510px-Portugal_regions.png" group-title="Eventi Live",World Cup Qualifying : Portugal vs Hungary (20:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://www.worldatlas.com/img/country/portugal/physical.png" group-title="Eventi Live",World Cup Qualifying : Portugal vs Hungary (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
@@ -913,7 +913,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="cyclingtourofhollandprolog" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://www.torogrind.com/citadelcycling/images/citadellogo.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
+#EXTINF:-1 tvg-id="cyclingtourofhollandprolog" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://cdn.mos.cms.futurecdn.net/MUTafCQkZbV2zJFXbYZWiV-800-80.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 
