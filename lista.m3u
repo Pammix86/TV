@@ -901,7 +901,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="worldcupqualifyingitalyvsisrael" tvg-name="World Cup Qualifying : Italy vs Israel (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Israel.png" group-title="Eventi Live",World Cup Qualifying : Italy vs Israel (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-850.php
 
-#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://www.worldatlas.com/img/country/portugal/physical.png" group-title="Eventi Live",World Cup Qualifying : Portugal vs Hungary (20:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingportugalvshungary" tvg-name="World Cup Qualifying : Portugal vs Hungary (20:45)" tvg-logo="https://a.cdn-hotels.com/gdcs/production52/d241/50cbfe55-046a-4ccd-b669-c73bddbb8ebc.jpg" group-title="Eventi Live",World Cup Qualifying : Portugal vs Hungary (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
@@ -913,7 +913,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="cyclingtourofhollandprolog" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://cdn.mos.cms.futurecdn.net/MUTafCQkZbV2zJFXbYZWiV-800-80.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
+#EXTINF:-1 tvg-id="cyclingtourofhollandprolog" tvg-name="Cycling: Tour of Holland prolog (19:00)" tvg-logo="https://www.torogrind.com/citadelcycling/images/citadellogo.png" group-title="Eventi Live",Cycling: Tour of Holland prolog (19:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 
