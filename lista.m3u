@@ -892,7 +892,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="fifau20wcmoroccou20vsfranceu20" tvg-name="FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://cdn.footystats.org/img/teams/morocco-morocco-under-20.png" group-title="Eventi Live",FIFA U20 WC : Morocco U20 vs France U20 (22:00)
+#EXTINF:-1 tvg-id="fifau20wcmoroccou20vsfranceu20" tvg-name="FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/morocco-logo-png_seeklogo-500402.png" group-title="Eventi Live",FIFA U20 WC : Morocco U20 vs France U20 (22:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
