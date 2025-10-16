@@ -892,16 +892,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2024/04/29/24dc3243-6bc3-4f67-948d-87ea6cf3717a/Sherif-Torso_318711-WTA-Tennis.png?width=950" group-title="Eventi Live",Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (11:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="moto3australiangrandprixfreepractice1" tvg-name="Moto3 : Australian Grand Prix, Free Practice 1 (23:55)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Moto3 : Australian Grand Prix, Free Practice 1 (23:55)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
-#EXTINF:-1 tvg-id="moto2australiangrandprixfreepractice1" tvg-name="Moto2 : Australian Grand Prix, Free Practice 1 (01:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Moto2 : Australian Grand Prix, Free Practice 1 (01:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpaustraliangrandprixfreepractice1" tvg-name="MotoGP : Australian Grand Prix, Free Practice 1 (01:35)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Australian Grand Prix, Free Practice 1 (01:35)
@@ -916,13 +913,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="tourofhollandstage2menettenleuritt15km" tvg-name="Tour of Holland | Stage 2 Men | Etten-Leur (ITT, 15km) (13:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Holland | Stage 2 Men | Etten-Leur (ITT, 15km) (13:45)
+#EXTINF:-1 tvg-id="tourofhollandstage2menettenleuritt15km" tvg-name="Tour of Holland | Stage 2 Men | Etten-Leur (ITT, 15km) (13:45)" tvg-logo="https://mlermmvk3oie.i.optimole.com/cb:Eu6F.598f9/w:1024/h:460/q:mauto/ig:avif/https://hetiskoers.nl/wp-content/uploads/TourOfHOlland.png" group-title="Eventi Live",Tour of Holland | Stage 2 Men | Etten-Leur (ITT, 15km) (13:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Handball" group-title="Eventi Live",--- Handball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="europeanchampionshipwomennetherlandswvsitalyw" tvg-name="European Championship Women : Netherlands W vs Italy W (19:30)" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-football-fan-logo-with-netherlands-flag-inside-png-image_7599790.png" group-title="Eventi Live",European Championship Women : Netherlands W vs Italy W (19:30)
+#EXTINF:-1 tvg-id="europeanchampionshipwomennetherlandswvsitalyw" tvg-name="European Championship Women : Netherlands W vs Italy W (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Netherlands W_vs_Italy W.png" group-title="Eventi Live",European Championship Women : Netherlands W vs Italy W (19:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
 
 
