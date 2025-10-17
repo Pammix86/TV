@@ -901,13 +901,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyseriecnovaravsunionarzignanochiampo" tvg-name="Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Union ArzignanoChiampo.png" group-title="Eventi Live",Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-152.php
 
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforl" tvg-name="Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="https://www.fsgc.sm/wp-content/uploads/2018/09/sassari-torres-768x768.png" group-title="Eventi Live",Italy - Serie C : Sassari Torres vs Forlì (20:30)
+#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforl" tvg-name="Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassari Torres_vs_Forlì.png" group-title="Eventi Live",Italy - Serie C : Sassari Torres vs Forlì (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-153.php
 
-#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/51/2/alcione-logo-png_seeklogo-519421.png" group-title="Eventi Live",Italy - Serie C : Alcione vs Inter II (20:30)
+#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/53/2/alcione-milano-ssd-logo-png_seeklogo-536615.png?v=1957829926612915712" group-title="Eventi Live",Italy - Serie C : Alcione vs Inter II (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-154.php
 
-#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/53/2/alcione-milano-ssd-logo-png_seeklogo-536615.png?v=1957829926612915712" group-title="Eventi Live",Italy - Serie C : Alcione vs Inter II (20:30)
+#EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/51/2/alcione-logo-png_seeklogo-519421.png" group-title="Eventi Live",Italy - Serie C : Alcione vs Inter II (20:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
 #EXTINF:-1 tvg-id="bundesligaunionberlinvsborussiamgladbach" tvg-name="Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Berlin_vs_Borussia M'gladbach.png" group-title="Eventi Live",Bundesliga : Union Berlin vs Borussia M'gladbach (20:30)
@@ -930,12 +930,6 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-name="Ice Skating" group-title="Eventi Live",--- Ice Skating ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Grand Prix France | Women's Individual Short Program (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Grand Prix France | Women's Individual Short Program (18:00)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-id="figureskatingfrenchgrandprixpairsshortprogram" tvg-name="Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230811/original/pngtree-vector-illustration-of-a-speed-ice-skating-logo-featuring-text-space-for-your-slogan-or-tagline-vector-picture-image_10300771.png" group-title="Eventi Live",Figure Skating: French Grand Prix Pairs Short Program (20:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
