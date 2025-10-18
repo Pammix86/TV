@@ -202,10 +202,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2289038972/in
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/830949486/index.m3u8
@@ -868,10 +868,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/376550441/ind
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2070070755/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2471902234/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV (2)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2471902234/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEO NOVARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro", VIDEO NOVARA
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2791781421/index.m3u8
@@ -892,7 +892,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="All Soccer Events" group-title="Eventi Live",--- All Soccer Events ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="italyserieawomensassuolovscomo" tvg-name="Italy - Serie A (women) : Sassuolo vs Como (12:30)" tvg-logo="https://logodix.com/logo/1643723.png" group-title="Eventi Live",Italy - Serie A (women) : Sassuolo vs Como (12:30)
+#EXTINF:-1 tvg-id="italyserieawomensassuolovscomo" tvg-name="Italy - Serie A (women) : Sassuolo vs Como (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Como.png" group-title="Eventi Live",Italy - Serie A (women) : Sassuolo vs Como (12:30)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
 
 #EXTINF:-1 tvg-id="italyserieawomengenoavsternana" tvg-name="Italy - Serie A (women) : Genoa vs Ternana (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa_vs_Ternana.png" group-title="Eventi Live",Italy - Serie A (women) : Genoa vs Ternana (12:30)
@@ -928,13 +928,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyserieapisavshellasverona" tvg-name="Italy - Serie A : Pisa vs Hellas Verona (15:00)" tvg-logo="https://png.pngtree.com/png-vector/20220818/ourmid/pngtree-pisa-italy-leaning-tower-symbol-exotic-travel-vector-png-image_19573924.png" group-title="Eventi Live",Italy - Serie A : Pisa vs Hellas Verona (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-76.php
 
-#EXTINF:-1 tvg-id="italyseriebfrosinonevsmonza" tvg-name="Italy - Serie B : Frosinone vs Monza (15:00)" tvg-logo="https://4.bp.blogspot.com/-vpP44wddBoc/Xw1tfGpVpbI/AAAAAAAAan4/IYiJLtjCkpAkG14n-hRPuoNHgK0IS5BvACLcBGAsYHQ/s1600/frosinone-calcio-logo_tr_237-design.png" group-title="Eventi Live",Italy - Serie B : Frosinone vs Monza (15:00)
+#EXTINF:-1 tvg-id="italyseriebfrosinonevsmonza" tvg-name="Italy - Serie B : Frosinone vs Monza (15:00)" tvg-logo="http://img4.wikia.nocookie.net/__cb20140818113956/logopedia/images/c/c3/Frosinonestemma.png" group-title="Eventi Live",Italy - Serie B : Frosinone vs Monza (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-105.php
 
 #EXTINF:-1 tvg-id="italyseriebreggianavsbari1908" tvg-name="Italy - Serie B : Reggiana vs Bari 1908 (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Reggiana_vs_Bari 1908.png" group-title="Eventi Live",Italy - Serie B : Reggiana vs Bari 1908 (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-106.php
 
-#EXTINF:-1 tvg-id="italyseriebmantovavssdtirol" tvg-name="Italy - Serie B : Mantova vs Südtirol (15:00)" tvg-logo="https://d5rzfs5ck83rq.cloudfront.net/legab.it/img/club/loghi/mantova.png" group-title="Eventi Live",Italy - Serie B : Mantova vs Südtirol (15:00)
+#EXTINF:-1 tvg-id="italyseriebmantovavssdtirol" tvg-name="Italy - Serie B : Mantova vs Südtirol (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mantova_vs_Südtirol.png" group-title="Eventi Live",Italy - Serie B : Mantova vs Südtirol (15:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-107.php
 
 #EXTINF:-1 tvg-id="italyseriebpescaravscarrarese" tvg-name="Italy - Serie B : Pescara vs Carrarese (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pescara_vs_Carrarese.png" group-title="Eventi Live",Italy - Serie B : Pescara vs Carrarese (15:00)
@@ -973,7 +973,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="italyseriearomavsinternazionale" tvg-name="Italy - Serie A : Roma vs Internazionale (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Internazionale.png" group-title="Eventi Live",Italy - Serie A : Roma vs Internazionale (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
 
-#EXTINF:-1 tvg-id="franceligue1olympiquemarseillevslehavre" tvg-name="France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/olympique-marseille-logo.png" group-title="Eventi Live",France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)
+#EXTINF:-1 tvg-id="franceligue1olympiquemarseillevslehavre" tvg-name="France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Le Havre.png" group-title="Eventi Live",France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-164.php
 
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
@@ -997,13 +997,10 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgpqualifying" tvg-name="Formula 1 : MSC Cruises United States GP - Qualifying (23:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : MSC Cruises United States GP - Qualifying (23:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="motogpaustraliangrandprixwarmup" tvg-name="MotoGP : Australian Grand Prix, Warm Up (00:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Australian Grand Prix, Warm Up (00:30)
-https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
 #EXTINF:-1 tvg-id="moto3australiangrandprixrace" tvg-name="Moto3 : Australian Grand Prix, Race (01:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Moto3 : Australian Grand Prix, Race (01:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2australiangrandprixrace" tvg-name="Moto2 : Australian Grand Prix, Race (03:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Australian Grand Prix, Race (03:00)
+#EXTINF:-1 tvg-id="moto2australiangrandprixrace" tvg-name="Moto2 : Australian Grand Prix, Race (03:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Moto2 : Australian Grand Prix, Race (03:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-name="UFC Fight Night" group-title="Eventi Live",--- UFC Fight Night ---
@@ -1015,13 +1012,13 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="tourofhollandstage4menemmenvamberg159km" tvg-name="Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230805/original/pngtree-amsterdam-the-capital-of-holland-sign-tour-pictogram-vector-picture-image_9725402.png" group-title="Eventi Live",Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
+#EXTINF:-1 tvg-id="tourofhollandstage4menemmenvamberg159km" tvg-name="Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://www.procyclingstats.com/images/shirts/bx/eb/volkerwessels-cyclingteam-2025.png" group-title="Eventi Live",Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="unitedrugbychampionshipzebrevsstormers" tvg-name="United Rugby Championship : Zebre vs Stormers (20:45)" tvg-logo="https://www.pinclipart.com/picdir/big/197-1978337_zebre-logo-png-clipart.png" group-title="Eventi Live",United Rugby Championship : Zebre vs Stormers (20:45)
+#EXTINF:-1 tvg-id="unitedrugbychampionshipzebrevsstormers" tvg-name="United Rugby Championship : Zebre vs Stormers (20:45)" tvg-logo="https://images.seeklogo.com/logo-png/21/2/zebre-rugby-club-logo-png_seeklogo-215041.png?v=1956580337320633336" group-title="Eventi Live",United Rugby Championship : Zebre vs Stormers (20:45)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 #EXTINF:-1 tvg-id="serieaelitemoglianovsrovigo" tvg-name="Serie A Elite : Mogliano vs Rovigo (15:30)" tvg-logo="https://hellomoglianoveneto.net/wp-content/uploads/2023/03/Logo-hello-mogliano.png" group-title="Eventi Live",Serie A Elite : Mogliano vs Rovigo (15:30)
@@ -1030,7 +1027,7 @@ https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="t100triathlonworldtourwollongongmenandwomen" tvg-name="T100 Triathlon World Tour | Wollongong Men and Women (07:00)" tvg-logo="https://content.protriathletes.org/content/images/2024/09/b338e080-8dcf-4b6c-b649-d41bcae3d29c.png" group-title="Eventi Live",T100 Triathlon World Tour | Wollongong Men and Women (07:00)
+#EXTINF:-1 tvg-id="t100triathlonworldtourwollongongmenandwomen" tvg-name="T100 Triathlon World Tour | Wollongong Men and Women (07:00)" tvg-logo="https://content.protriathletes.org/content/images/2025/02/886c005c-301f-4ce2-ab11-a21a3b336187.png" group-title="Eventi Live",T100 Triathlon World Tour | Wollongong Men and Women (07:00)
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Ski Jumping" group-title="Eventi Live",--- Ski Jumping ---
